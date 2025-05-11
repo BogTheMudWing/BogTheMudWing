@@ -33,7 +33,9 @@ If you want something to watch, you can check out the YouTube channels I manage:
 - **YouTube**: [Stonley890](https://youtube.com/@Stonley890), [Bog The MudWing](https://youtube.com/@bogthemudwing), [StonleyFX](https://youtube.com/@StonleyFX), [Waffle Irons Gaming](https://youtube.com/@waffleirons)
 
 ## Also Check Out
-- **Wings of Fire: The New World**: [Web Page](https://woftnw.org)
+- **Wings of Fire: The New World**: <https://woftnw.org>
+- **Wings of Fire Wiki**: <https://wingsoffire.wiki>
+- **Wings of Fire Forum**: <https://wingsoffire.forum>
 
 If you are financially stable and find value in my work, you can donate using the button below.
 
