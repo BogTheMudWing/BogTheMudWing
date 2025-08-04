@@ -43,9 +43,6 @@ If you want something to watch, you can check out the YouTube channels I manage:
 ## Also Check Out
 
 - **Wings of Fire: The New World**: <https://woftnw.org>
-- **Wings of Fire Wiki**: <https://wingsoffire.wiki>
-- **Wings of Fire Forum**: <https://wingsoffire.forum>
-
 ---
 
 [![Bog The MudWing](https://blog.macver.org/content/images/2025/07/Stamp-Colored-Small-Shadow.png)](https://blog.macver.org/about-me)
