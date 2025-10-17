@@ -7,6 +7,8 @@ You can email me at bog@macver.org
 [![Matrix: @stonleyfx:matrix.org](https://img.shields.io/badge/Matrix-%40stonleyfx%3Amatrix.org-brightgreen?style=for-the-badge&logo=matrix)](https://matrix.to/#/@stonleyfx:matrix.org)
 [![Discord: @bogthemudwing](https://img.shields.io/badge/Discord-%40bogthemudwing-darkblue?style=for-the-badge&logo=discord)](https://discord.com/users/505833634134228992)
 
+[![Find my code on Gitea](https://img.shields.io/badge/Find_my_code_on_Macver_Code_Athenaeum-purple?style=for-the-badge)](https://code.macver.org)
+
 ---
 
 If you're looking for Minecraft stuff, I have everything published on [Modrinth](https://modrinth.com/user/BogTheMudWing).
