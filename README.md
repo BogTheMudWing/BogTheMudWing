@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Bog, and you can learn more about me on my blog: <https://blog.macver.org/about-me>
+I'm Bog, and you can learn more about me on my website: <https://bog.macver.org/>
 
 You can email me at bog@macver.org
 
@@ -47,4 +47,4 @@ If you want something to watch, you can check out the YouTube channels I manage:
 - **Wings of Fire: The New World**: <https://woftnw.org>
 ---
 
-[![Bog The MudWing](https://blog.macver.org/content/images/2025/07/Stamp-Colored-Small-Shadow.png)](https://blog.macver.org/about-me)
+[![Bog The MudWing](https://blog.macver.org/content/images/2025/07/Stamp-Colored-Small-Shadow.png)](https://bog.macver.org)
