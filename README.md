@@ -1,13 +1,13 @@
 # Hello!
 
-I'm Bog, and you can learn more about me on my website: <https://bog.macver.org/>
+I'm Bog, and you can learn more about me on my website: <https://bog.dragoncat.org/>
 
-You can email me at bog@macver.org
+You can email me at bog@dragoncat.org
 
 [![Matrix: @stonleyfx:matrix.org](https://img.shields.io/badge/Matrix-%40stonleyfx%3Amatrix.org-brightgreen?style=for-the-badge&logo=matrix)](https://matrix.to/#/@stonleyfx:matrix.org)
 [![Discord: @bogthemudwing](https://img.shields.io/badge/Discord-%40bogthemudwing-darkblue?style=for-the-badge&logo=discord)](https://discord.com/users/505833634134228992)
 
-[![Find my code on Gitea](https://img.shields.io/badge/Find_my_code_on_Macver_Code_Athenaeum-purple?style=for-the-badge)](https://code.macver.org)
+[![Find my code on Gitea](https://img.shields.io/badge/Find_my_code_on_Dragoncat_Code_Athenaeum-purple?style=for-the-badge)](https://code.dragoncat.org)
 
 ---
 
@@ -24,7 +24,7 @@ If you want something to watch, you can check out the YouTube channels I manage:
 - **Matrix** (preferred): [@stonley890:matrix.org](https://matrix.to/#/@stonleyfx:matrix.org)
 - **Mastodon**: [@Stonley890](https://mastodon.social/@Stonley890)
 - **Discord**: [bogthemudwing](https://discord.com/users/505833634134228992)
-- **Email**: bog@macver.org
+- **Email**: bog@dragoncat.org
 
 ## My Stuff
 
